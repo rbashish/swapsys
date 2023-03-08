@@ -1,12 +1,13 @@
 # swapsys - a linux cmd line utility to manage swap space
 
-![GitHub language count](https://img.shields.io/github/languages/count/rbashish/swapsys?style=plastic)
+![PyPI Version](https://img.shields.io/pypi/v/swapsys?style=plastic)
+![Libraries.io SourceRank](https://img.shields.io/librariesio/sourcerank/pypi/swapsys?style=plastic)
 ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/swapsys?style=plastic)
 ![PyPI - Wheel](https://img.shields.io/pypi/wheel/swapsys?style=plastic)
 
-![GitHub issues](https://img.shields.io/github/issues/rbashish/swapsys?style=plastic)
+![GitHub issues](https://img.shields.io/github/issues-raw/rbashish/swapsys?style=plastic)
 ![PyPI - License](https://img.shields.io/pypi/l/swapsys?style=plastic)
-![PyPI - Downloads](https://img.shields.io/pypi/dm/swapsys?color=orange&label=PyPI%20downloads&style=plastic)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/swapsys?style=plastic)
 
 
 Description
