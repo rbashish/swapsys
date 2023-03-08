@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: swapsys
+Version: 0.1.0
+Summary: A Python package to add and manage swap space to a Linux system
+Author-email: rb ashish <dev@rbashish.tech>
+License: MIT
+Project-URL: Homepage, https://rbashish.tech
+Project-URL: Repository, https://github.com/rbashish/swapsys
+Project-URL: Issue Tracker, https://github.com/rbashish/swapsys/issues
+Project-URL: Changelog, https://github.com/rbashish/swapsys/blob/main/CHANGELOG.md
+Keywords: swap,add swap,swap space,linux swap,swap memory
+Classifier: Programming Language :: Python :: 3.7
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: System Administrators
+Classifier: Intended Audience :: Information Technology
+Classifier: Topic :: System :: Installation/Setup
+Requires-Python: >=3.7
+Description-Content-Type: text/x-rst
+License-File: LICENCE

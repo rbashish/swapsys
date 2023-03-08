@@ -1,0 +1,11 @@
+LICENCE
+README.md
+pyproject.toml
+src/__init__.py
+src/swapsys.py
+src/swapsys.egg-info/PKG-INFO
+src/swapsys.egg-info/SOURCES.txt
+src/swapsys.egg-info/dependency_links.txt
+src/swapsys.egg-info/entry_points.txt
+src/swapsys.egg-info/requires.txt
+src/swapsys.egg-info/top_level.txt
