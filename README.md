@@ -33,6 +33,10 @@ swapsys
 
 Screenshot
 ----
+### Downloading the package:
+![pypi-swapsys.png](https://raw.githubusercontent.com/rbashish/swapsys/main/image/pip-install-swapsys.png)
+
+### Run the utility 
 ![pypi-swapsys.png](https://raw.githubusercontent.com/rbashish/swapsys/main/image/swapsys.png)
 
 Feedback/Issue
