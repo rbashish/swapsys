@@ -22,6 +22,9 @@ Download & Install
 ```
 pip install swapsys
 ```
+```
+sudo pip install swapsys
+```
 
 `Note:` Please note that some operating systems might be equipped with the python3 and pip3 commands instead of python and pip. 
 
