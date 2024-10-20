@@ -1,0 +1,41 @@
+# This workflow will upload a Python Package using Twine when a release is created
+# For more information see: https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-python#publishing-to-package-registries
+
+# This workflow uses actions that are not certified by GitHub.
+# They are provided by a third-party and are governed by
+# separate terms of service, privacy policy, and support
+# documentation.
+
+name: Swapsys PyPi Trusted Publishing
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: read
+  packages: write  # Required to allow uploading to PyPI
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    - name: Clean previous builds
+      run: rm -rf dist/*  # Clean up previous builds
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install build
+    - name: Build package
+      run: python -m build --verbose  # Enable verbose output
+    - name: Publish package via trusted publishing
+      uses: pypa/gh-action-pypi-publish@release/v1
+      with:
+        # No need to set the user or password fields when using trusted publishing
+        repository_url: "https://upload.pypi.org/legacy/"  # Optional, defaults to PyPI
