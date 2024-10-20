@@ -1,6 +1,6 @@
 # swapsys - a linux cmd line utility to manage swap space
 
-[![PyPi Package Upload](https://github.com/rbashish/swapsys/actions/workflows/pypi-publish.yml/badge.svg?branch=main)](https://github.com/rbashish/swapsys/actions/workflows/pypi-publish.yml)
+[![Swapsys PyPi Package Upload](https://github.com/rbashish/swapsys/actions/workflows/pypi-publish.yml/badge.svg)](https://github.com/rbashish/swapsys/actions/workflows/pypi-publish.yml)
 
 ![PyPI Version](https://img.shields.io/pypi/v/swapsys?style=plastic)
 ![Libraries.io SourceRank](https://img.shields.io/librariesio/sourcerank/pypi/swapsys?style=plastic)
