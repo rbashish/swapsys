@@ -1,1 +1,0 @@
-*.yml text eol=lf # This setting ensures that all .yml files in the repository use LF line endings regardless of the operating system.
