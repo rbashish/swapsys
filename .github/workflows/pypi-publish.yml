@@ -14,7 +14,7 @@ jobs:
     runs-on: ubuntu-20.04
 
     environment:
-      name: pypi  # Set the environment to PyPI
+      name: API Token  # Set the environment to PyPI
       url: https://pypi.org/p/swapsys  # Replace with your PyPI project URL
 
     steps:
