@@ -1,9 +1,17 @@
+.gitattributes
 LICENCE
 README.md
 pyproject.toml
+.github/workflows/pypi-publish.yml
 dist/swapsys-0.1.0-py3-none-any.whl
 dist/swapsys-0.1.0.tar.gz
+dist/swapsys-1.0.0-py3-none-any.whl
+dist/swapsys-1.0.0.tar.gz
+image/pip-install-swapsys.png
 image/readme.md
+image/swapsys-hd.png
+image/swapsys-header.png
+image/swapsys-logo.png
 image/swapsys.png
 src/__init__.py
 src/swapsys.py
