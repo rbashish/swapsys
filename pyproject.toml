@@ -14,7 +14,7 @@ requires-python = ">=3.7"
 keywords = ["swap", "add swap", "swap space", "linux swap", "swap memory"]
 license = {text = "MIT"}
 classifiers = [
-    "Programming Language :: Python :: 3.6",
+    "Programming Language :: Python :: 3.7",
     "License :: OSI Approved :: MIT License",
     "Operating System :: POSIX :: Linux",
     "Intended Audience :: Developers",
