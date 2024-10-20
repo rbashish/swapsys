@@ -1,8 +1,13 @@
 LICENCE
 README.md
 pyproject.toml
+dist/swapsys-0.1.0-py3-none-any.whl
+dist/swapsys-0.1.0.tar.gz
+image/readme.md
+image/swapsys.png
 src/__init__.py
 src/swapsys.py
+src/__pycache__/swapsys.cpython-310.pyc
 src/swapsys.egg-info/PKG-INFO
 src/swapsys.egg-info/SOURCES.txt
 src/swapsys.egg-info/dependency_links.txt

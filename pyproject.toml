@@ -4,17 +4,17 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "swapsys"
-version = "0.1.0"
+version = "1.0.0"
 authors = [
     {name = "rb ashish", email = "dev@rbashish.tech"},
 ]
 description = "A Python package to add and manage swap space to a Linux system"
 readme = "README.md"
-requires-python = ">=3.7"
+requires-python = ">=3.6"
 keywords = ["swap", "add swap", "swap space", "linux swap", "swap memory"]
 license = {text = "MIT"}
 classifiers = [
-    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.6",
     "License :: OSI Approved :: MIT License",
     "Operating System :: POSIX :: Linux",
     "Intended Audience :: Developers",
@@ -34,7 +34,7 @@ version = {attr = "swapsys.VERSION"}
 readme = {file = "README.rst"}
 
 [project.urls]
-"Homepage" = "https://rbashish.tech"
-"Repository" = "https://github.com/rbashish/swapsys"
+"Homepage" = "https://github.com/rbashish/swapsys"
 "Issue Tracker" = "https://github.com/rbashish/swapsys/issues"
 "Changelog" = "https://github.com/rbashish/swapsys/blob/main/CHANGELOG.md"
+"Dev Site" = "https://rbashish.tech"

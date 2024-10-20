@@ -20,7 +20,7 @@ def main():
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 SWAPSYS - A python package to manage swap space in a Linux system.
-Copyright (c) 2023 - SWAPSYS DEV
+Copyright (c) 2024 - SWAPSYS DEV
 Visit https://pypi.org/swapsys to report any issue.                                         
 
     """)
