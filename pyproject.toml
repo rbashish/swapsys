@@ -10,7 +10,7 @@ authors = [
 ]
 description = "A Python package to add and manage swap space to a Linux system"
 readme = "README.md"
-requires-python = ">=3.7"
+requires-python = ">=3.6"
 keywords = ["swap", "add swap", "swap space", "linux swap", "swap memory"]
 license = {text = "MIT"}
 classifiers = [
